@@ -11,3 +11,21 @@ a{
 a:hover{
     opacity: 0.6;
 }
+
+/*header*/
+.main-nav{
+    margin-bottom: 100px;
+    border-bottom: 1px #000 solid;
+    background-color: #ccc;
+}
+
+.btn-add{
+    margin: 30px 0;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 4px;
+  }
+
+ 

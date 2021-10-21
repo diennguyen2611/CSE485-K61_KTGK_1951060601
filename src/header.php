@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
         integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
-    <title>Hello, world!</title>
+    <title>HTQL</title>
 </head>
 
 <body>
@@ -59,7 +59,7 @@
             </div>
         </div>
 
-        <div class="container-fluid overflow-hidden bg-light">
+        <div class="container-fluid overflow-hidden">
             <nav class="navbar navbar-expand-lg navbar-light main-nav">
                 <div class="container-fluid">
 
